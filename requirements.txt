@@ -12,4 +12,4 @@ Pillow==4.3.0
 pytz==2017.3
 requests==2.18.4
 smmap2==2.0.3
-urllib3==1.22
+urllib3==1.26.5
