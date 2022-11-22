@@ -8,7 +8,7 @@ GitPython==2.1.7
 idna==2.6
 Markdown==2.6.10
 olefile==0.44
-Pillow==4.3.0
+Pillow==9.3.0
 pytz==2017.3
 requests==2.18.4
 smmap2==2.0.3
